@@ -1,6 +1,6 @@
 # 06---Galeria-Flex
 
-![]()
+![](./img/Preview.png)
 
 ## Descrição
 Projeto de HTML e CSS, sobre uma galeria de fotos utilizando o flex
